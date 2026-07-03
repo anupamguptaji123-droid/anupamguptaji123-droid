@@ -1,8 +1,16 @@
-<h1 align="center">Hi 👋, I'm Anupam Gupta</h1>
+<h1 align="center">Hi 👋, I'm Anupam Kumari</h1>
 
 <h3 align="center">
 🚀 Passionate MERN Stack Developer | 💻 Web Enthusiast | 🌱 Lifelong Learner
+
+  ## ✨ Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=anupamguptaji123-droid&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 </h3>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
@@ -91,11 +99,7 @@
 
 ---
 
-## ✨ Profile Views
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=anupamguptaji123-droid&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
