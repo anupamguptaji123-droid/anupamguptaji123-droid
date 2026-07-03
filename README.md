@@ -64,15 +64,13 @@
 
 </div>
 
----
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake Animation
 
-<div align="center">
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anupamguptaji123-droid&theme=tokyo-night"/>
-
-</div>
 
 
 ## 🌐 Connect With Me
