@@ -60,7 +60,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anupamguptaji123-droid&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github.com/users/anupamguptaji123-droid/achievements/pull-shark">
 
 </div>
 
