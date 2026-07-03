@@ -86,7 +86,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="anupamguptaji123email@gmail.com">
+<a href="mailto:anupamguptaji123email@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
