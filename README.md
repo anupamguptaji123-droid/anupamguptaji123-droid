@@ -82,16 +82,15 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin-profile">
+<a href ="https://www.linkedin.com/in/anupam-kumari-8167aa3a8/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:anupamguptaji123email@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
 
----
 
 <div align="center">
 
