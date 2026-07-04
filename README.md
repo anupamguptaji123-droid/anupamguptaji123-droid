@@ -42,34 +42,10 @@
 | 🌐 Portfolio Website | Personal portfolio showcasing projects and skills |
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anupamguptaji123-droid&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamguptaji123-droid&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupamguptaji123-droid&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github.com/users/anupamguptaji123-droid/achievements/pull-shark">
-
-</div>
-
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 
