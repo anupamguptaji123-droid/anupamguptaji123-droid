@@ -16,9 +16,11 @@
 
 - 🔭 Currently working on **Full Stack Web Development Projects**
 - 🌱 Learning **MongoDB, Express.js, React.js and Node.js**
+- 🧑‍🤝‍🧑 Looking to collaborate on GitHub
 - 💡 Passionate about creating modern and responsive web applications
 - 🚀 Love transforming ideas into real-world products
 - ⚡ Constantly improving my coding and problem-solving skills
+
 
 
 
@@ -63,6 +65,8 @@
 <a href="mailto:anupamguptaji123email@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
+
 </p>
 
 
