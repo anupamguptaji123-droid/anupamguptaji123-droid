@@ -10,7 +10,6 @@
 
 </div>
 
-
 ## 💫 About Me
 
 - 🔭 Currently working on **Full Stack Web Development Projects**
