@@ -48,8 +48,9 @@ interests:Web Development|AI Integration|Open Source|Problem Solving
 🧰 Tools & Languages
 </div>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,python,git,github,vscode" />
 </div>
+
 
 <br><br>
 
