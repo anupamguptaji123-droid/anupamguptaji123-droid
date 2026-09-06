@@ -41,7 +41,7 @@ interests:Web Development|AI Integration|Open Source|Problem Solving
 </div>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi,sql,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi,SQL,django" />
 </div>
 
 <div align="center">
