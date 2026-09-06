@@ -50,6 +50,11 @@ interests:Web Development|AI Integration|Open Source|Problem Solving
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </div>
+
+<br><br>
+
+##Features
+
 <div align="center">
 
 <table>
