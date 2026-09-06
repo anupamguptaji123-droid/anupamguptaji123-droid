@@ -130,6 +130,5 @@ interests:Web Development|AI Integration|Open Source|Problem Solving
 
 ⭐ Code • Learn • Build • Improve • Repeat ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7F53AC,100:92FE9D&height=180&section=footer" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B5A8F,50:1E3A8A,100:0891B2&text&fontSize=54&fontColor=FFFFFF&fontAlignY=40&desc=%20%20%20%7C%20Full%20%20&descAlignY=62&descSize=18&animation=fadeIn"/>
 </div>
