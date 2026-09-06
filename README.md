@@ -1,7 +1,7 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B5A8F,50:1E3A8A,100:0891B2&text=Anupam%20Kumari&fontSize=54&fontColor=FFFFFF&fontAlignY=40&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=18&animation=fadeIn"/>
-<br><br>
+
 <a href="https://github.com/anupamguptaji123-droid">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -119,11 +119,9 @@ interests:Web Development|AI Integration|Open Source|Problem Solving
 
 </div>
 
-<br>
-
-
-<div align="center">
-
+<br><br> 
+<div>
+  
 "Great software is built one line of code, one problem, and one idea at a time."
 
 </div>
