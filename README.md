@@ -30,7 +30,6 @@
 
 </div>
 
----
 
 ## 💫 About Me
 
@@ -47,7 +46,6 @@ I'm a passionate **MERN Stack Developer** who enjoys building modern, responsive
 * 📚 Always learning new technologies and development practices
 * ⚡ Fun fact: **Code • Learn • Build • Repeat**
 
----
 
 ## 🧑‍💻 What I Do
 
@@ -103,59 +101,6 @@ I'm a passionate **MERN Stack Developer** who enjoys building modern, responsive
 | 🔧 **Full Stack Projects** | Modern web applications with frontend, backend and database integration | MERN Stack                |
 
 > 💡 More projects are continuously being added to my GitHub.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anupamguptaji123-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamguptaji123-droid&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=anupamguptaji123-droid&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anupamguptaji123-droid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anupamguptaji123-droid&theme=tokyo-night&hide_border=true" />
-
-</div>
-
-
-## 🎯 2026 Goals
-
-* 🚀 Build more **production-ready MERN applications**
-* 🧠 Strengthen **Data Structures & Algorithms**
-* ☁️ Learn more about **Cloud & Deployment**
-* 🔐 Improve **Backend & API Security**
-* 🤝 Contribute to **Open Source**
-* 📚 Explore **AI + Full Stack Development**
-* 💼 Prepare for exciting **Software Development opportunities**
 
 
 ## 🌱 Currently Learning
