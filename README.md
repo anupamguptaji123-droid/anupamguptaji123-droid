@@ -42,13 +42,6 @@
 | 🌐 Portfolio Website | Personal portfolio showcasing projects and skills |
 
 
-
-
-
-
-
-
-
 ## 🌐 Connect With Me
 
 <p align="center">
