@@ -53,7 +53,7 @@ interests:Web Development|AI Integration|Open Source|Problem Solving
 
 <br><br>
 
-##Features
+## Features
 
 <div align="center">
 
@@ -118,6 +118,9 @@ interests:Web Development|AI Integration|Open Source|Problem Solving
 </table>
 
 </div>
+
+<br>
+
 
 <div align="center">
 
