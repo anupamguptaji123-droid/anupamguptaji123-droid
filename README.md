@@ -120,13 +120,10 @@ interests:Web Development|AI Integration|Open Source|Problem Solving
 </div>
 
 <br><br> 
-<div>
-  
-"Great software is built one line of code, one problem, and one idea at a time."
 
-</div>
 
 <div align="center">
+"Great software is built one line of code, one problem, and one idea at a time."
 
 ⭐ Code • Learn • Build • Improve • Repeat ⭐
 
