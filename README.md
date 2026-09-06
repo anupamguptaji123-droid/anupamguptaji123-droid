@@ -50,40 +50,69 @@ interests:Web Development|AI Integration|Open Source|Problem Solving
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </div>
+<div align="center">
 
+<table>
 
----
+<tr>
 
-<div align="center"> <table> <tr> <td width="50%" valign="top">
-🌐 Modern Web Apps
-📱 Responsive Design
-🎨 Modern UI/UX
-⚡ Fast Interfaces
-🧩 Reusable Components
-📲 Mobile Friendly
-</td> <td width="50%" valign="top">
-⚙️ Full Stack Features
-🔐 Authentication
-👤 User Management
-🔗 REST APIs
-🗄️ Database Integration
-🔄 CRUD Operations
-</td> </tr> <tr> <td width="50%" valign="top">
-🚀 Application Features
-🔎 Search & Filtering
-📊 Dashboards
-📈 Progress Tracking
-🛒 E-Commerce
-📦 Data Management
-</td> <td width="50%" valign="top">
-🤖 Smart Applications
-🤖 AI Integration
-💬 AI Assistants
-🔌 Third-Party APIs
-☁️ Cloud Deployment
-🔒 Secure Applications
-</td> </tr> </table> </div>
 <td width="50%" valign="top">
+
+### 🌐 Modern Web Apps
+
+📱 Responsive Design  
+🎨 Modern UI/UX  
+⚡ Fast Interfaces  
+🧩 Reusable Components  
+📲 Mobile Friendly  
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Full Stack Features
+
+🔐 Authentication  
+👤 User Management  
+🔗 REST APIs  
+🗄️ Database Integration  
+🔄 CRUD Operations  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 Application Features
+
+🔎 Search & Filtering  
+📊 Interactive Dashboards  
+📈 Progress Tracking  
+🛒 E-Commerce Features  
+📦 Data Management  
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Smart Applications
+
+🤖 AI Integration  
+💬 AI Assistants  
+🔌 Third-Party APIs  
+☁️ Cloud Deployment  
+🔒 Secure Applications  
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 <div align="center">
 
