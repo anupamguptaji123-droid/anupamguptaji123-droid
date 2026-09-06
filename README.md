@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7F53AC,100:92FE9D&height=180&section=header" width="100%"/>
+
 <div align="center">
 
 # 👋 Hi, I'm **Anupam Kumari**
